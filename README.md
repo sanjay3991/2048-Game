@@ -7,9 +7,4 @@ Players can enjoy the challenge of merging numbered tiles to achieve the elusive
 , making it an excellent project for Python enthusiasts to explore and understand game development fundamentals. To play, 
 simply run the Python script and use arrow keys to navigate the tiles.
 
-Short Description:
 
-Experience the classic 2048 game in Python! This console-based implementation offers a captivating challenge where players 
-strategically merge tiles to reach the coveted 2048 tile. The game's simplicity and clear Python syntax make it an ideal
-project for learning and enjoying the thrill of game development. Just run the Python script, and use arrow keys for seamless 
-navigation. Dive into the world of 2048 and see how far you can go!
